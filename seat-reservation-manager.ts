@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/seat-reservation-manager/
 
+
 class SeatManager {
     private seats: number[];
     private availableSeats: Set<number>;
